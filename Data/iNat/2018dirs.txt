@@ -1,0 +1,24 @@
+gsutil -m cp -r train_val2018/Aves/3278/. gs://muirsquest/Corvus_Corax
+gsutil -m cp -r train_val2018/Reptilia/4436/. gs://muirsquest/Sceloporus_Occidentalis
+gsutil -m cp -r train_val2018/Plantae/6851/. gs://muirsquest/Quercus_Kelloggii
+gsutil -m cp -r train_val2018/Plantae/6904/. gs://muirsquest/Asclepias_Speciosa
+gsutil -m cp -r train_val2018/Plantae/7963/. gs://muirsquest/Pinus_Ponderosa
+gsutil -m cp -r train_val2018/Plantae/7741/. gs://muirsquest/Toxicodendron_Diversilobum
+gsutil -m cp -r train_val2018/Mammalia/4068/. gs://muirsquest/Odocoileus_Hemionus
+gsutil -m cp -r train_val2018/Plantae/7935/. gs://muirsquest/Sequoiadendron_Giganteum
+gsutil -m cp -r train_val2018/Plantae/6607/. gs://muirsquest/Sarcodes_Sanguinea
+gsutil -m cp -r train_val2018/Plantae/7920/. gs://muirsquest/Calocedrus_Decurrens
+gsutil -m cp -r train_val2018/Plantae/7512/. gs://muirsquest/Eschscholzia_Californica
+gsutil -m cp -r train_val2018/Plantae/7930/. gs://muirsquest/Juniperus_Occidentalis
+gsutil -m cp -r train_val2018/Plantae/7949/. gs://muirsquest/Pinus_Albicaulis
+gsutil -m cp -r train_val2018/Plantae/7966/. gs://muirsquest/Pinus_Sabiniana
+gsutil -m cp -r train_val2018/Plantae/6853/. gs://muirsquest/Quercus_Lobata
+gsutil -m cp -r train_val2018/Plantae/7950/. gs://muirsquest/Pinus_Attenuata
+gsutil -m cp -r train_val2018/Plantae/7767/. gs://muirsquest/Aesculus_Californica
+gsutil -m cp -r train_val2018/Plantae/7246/. gs://muirsquest/Umbellularia_Californica
+gsutil -m cp -r train_val2018/Plantae/7979/. gs://muirsquest/Torreya_Californica
+gsutil -m cp -r train_val2018/Plantae/7971/. gs://muirsquest/Pseudotsuga_Menziesii
+gsutil -m cp -r train_val2018/Plantae/7757/. gs://muirsquest/Acer_Macrophyllum
+gsutil -m cp -r train_val2018/Plantae/7330/. gs://muirsquest/Populus_Tremuloides
+
+
