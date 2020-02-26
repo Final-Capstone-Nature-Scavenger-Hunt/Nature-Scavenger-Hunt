@@ -1,7 +1,7 @@
 gsutil -m cp -r train_val2019/Birds/212/. gs://muirsquest/Corvus_Corax
 gsutil -m cp -r train_val2019/Reptiles/165/. gs://muirsquest/Sceloporus_Occidentalis
 gsutil -m cp -r train_val2019/Plants/657/. gs://muirsquest/Quercus_Kelloggii
-gsutil -m cp -r train_val2019/Insects/68/. gs://muirsquest/Asclepias_Speciosa
+gsutil -m cp -r train_val2019/Plants/568/. gs://muirsquest/Asclepias_Speciosa
 gsutil -m cp -r train_val2019/Plants/981/. gs://muirsquest/Pinus_Ponderosa
 
 
