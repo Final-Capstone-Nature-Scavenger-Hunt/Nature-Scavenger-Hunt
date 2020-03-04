@@ -1,0 +1,58 @@
+# # remove classes we don't expect to encounter
+","Magnoliopsida          2450
+","Insecta                2064
+","Aves                   1290
+","Liliopsida              482
+","Actinopterygii          369 (fish)
+","Reptilia                295
+","Mammalia                234
+","Agaricomycetes          217
+","Gastropoda              197
+","Amphibia                145
+","Polypodiopsida          139
+","Arachnida               114
+","Lecanoromycetes          75
+","Pinopsida                72
+","Malacostraca             54 (crustacean)
+","Bivalvia                 41 (bivalves)
+","Elasmobranchii           26 (fish)
+","Phaeophyceae             25 (kelp)
+","Anthozoa                 23 (anenome)
+","Asteroidea               19 (starfish)
+","Bryopsida                16
+","Polyplacophora           16 (molluscs)
+","Lycopodiopsida           14
+","Florideophyceae          14 (algae)
+","Hexanauplia              10 (crustacean)
+","Pezizomycetes            10
+","Echinoidea               10 (urchin)
+","Diplopoda                 9
+","Cephalopoda               8 (molluscs)
+","Polychaeta                7 (marine worms)
+","Equisetopsida             6
+","Psilotopsida              6
+","Sordariomycetes           5
+","Leotiomycetes             5
+","Myxomycetes               4
+","Dacrymycetes              4
+","Ascidiacea                4 (sea squirts)
+","Marchantiopsida           4
+","Tremellomycetes           3
+","Ulvophyceae               3 (algae)
+","Hydrozoa                  3 (salt water predators)
+","Holothuroidea             3 (sea cuc)
+","Pucciniomycetes           3
+","Ophiuroidea               2 (ocean stars)
+","Arthoniomycetes           2
+","Chilopoda                 2
+","Gnetopsida                2
+","Scyphozoa                 2 (jellyfish)
+","Zygomycetes               1
+","Jungermanniopsida         1
+","Merostomata               1
+","Rhabditophora             1
+","Phascolosomatidea         1
+","Compsopogonophyceae       1
+","Cyanophyceae              1
+","Marattiopsida             1 (keep this only)
+","Gymnolaemata              1
