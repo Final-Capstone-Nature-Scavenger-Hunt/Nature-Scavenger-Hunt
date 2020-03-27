@@ -1,0 +1,24 @@
+,HuntName,HuntName,ItemClass,Genus,Species,Abundance,RarityScore,DifficultyLevel,Endemic?
+0,Corvus corax,Common Raven,Aves,Corvus,corax,Abundant,1,Easy,0
+1,Sceloporus occidentalis,Pacific Blue bellied Lizard,Reptilia,Sceloporus,occidentalis,Common,5,Med,1
+2,Quercus kelloggii,California black oak,Magnoliopsida,Quercus,kelloggii,Common,5,Med,1
+3,Cornus nuttallii,Pacific dogwood,Magnoliopsida,Cornus,nuttallii,Common,5,Med,1
+4,Asclepias speciosa,Showy milkweed,Magnoliopsida,Asclepias,speciosa,Common,5,Med,1
+5,Pinus ponderosa,Western Yellow pine,Pinopsida,Pinus,ponderosa,Abundant,1,Easy,1
+6,Castilleja miniata,Great red paintbrush,Magnoliopsida,Castilleja,miniata,Common,5,Med,1
+7,Toxicodendron diversilobum,Western poison oak,Magnoliopsida,Toxicodendron,diversilobum,Uncommon,7,Med,1
+8,Odocoileus hemionus,Black tailed Deer,Mammalia,Odocoileus,hemionus,Common,5,Med,1
+9,Sarcodes sanguinea,Snowplant,Magnoliopsida,Sarcodes,sanguinea,Common,5,Med,1
+10,Calocedrus decurrens,Incense cedar,Pinopsida,Calocedrus,decurrens,Abundant,1,Easy,1
+11,Eschscholzia californica,Californian Poppy,Magnoliopsida,Eschscholzia,californica,Uncommon,7,Med,1
+12,Juniperus occidentalis,Western juniper,Pinopsida,Juniperus,occidentalis,Common,5,Med,1
+13,Pinus albicaulis,Whitebark pine,Pinopsida,Pinus,albicaulis,Common,5,Med,1
+14,Pinus sabiniana,Grey leaf pine,Pinopsida,Pinus,sabiniana,Common,5,Med,1
+15,Quercus lobata,Valley oak,Magnoliopsida,Quercus,lobata,Uncommon,7,Med,1
+16,Pinus attenuata,Narrowcone pine,Pinopsida,Pinus,attenuata,Uncommon,7,Med,1
+17,Aesculus californica,California buckeye,Magnoliopsida,Aesculus,californica,Uncommon,7,Med,1
+18,Umbellularia californica,Myrtlewood,Magnoliopsida,Umbellularia,californica,Uncommon,7,Med,1
+19,Torreya californica,California nutmeg,Pinopsida,Torreya,californica,Uncommon,7,Med,1
+20,Pseudotsuga menziesii,Douglas Fir,Pinopsida,Pseudotsuga,menziesii,Abundant,1,Easy,1
+21,Acer macrophyllum,Oregon Maple,Magnoliopsida,Acer,macrophyllum,Common,5,Med,1
+22,Populus tremuloides,American Aspen,Magnoliopsida,Populus,tremuloides,Common,5,Med,1
