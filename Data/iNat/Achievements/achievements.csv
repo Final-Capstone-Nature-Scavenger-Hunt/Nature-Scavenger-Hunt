@@ -1,0 +1,13 @@
+﻿ItemCombo,Total,AchievementName,AchievementText,Image
+"{'Incense cedar','Prickly ponderosa'}",2,Miwok Home Maker,"Bark-covered homes were used by Miwok people living in Yosemite Valley. Built on a framework of pine or cedar poles lashed with grapevines. When materials were readily available, bark homes were relatively easy to build and lasted a number of years.",gs://fir-classification.appspot.com/Achievement_images/Miwok Home Maker
+"{'Yosemite Falls','Bridalveil Falls'}",2,Liquid Life,"For native cultures, water retains an honored and indispensable place, an actual force as well as symbolic image of life and death, creation and destruction, nourishment and deprivation: water exists as an autonomous and primeval element to be encountered with humility, respect, joy and caution.",gs://fir-classification.appspot.com/Achievement_images/Liquid Life
+"{'Oregon Maple', 
+'California buckeye', 
+'Pacific dogwood', 
+'California black oak', 
+'Valley oak', 
+'Myrtlewood'}",3,Firestarter,"You found 3 hardwoods. Per square inch, they contain much more BTU potential than other types of wood – which means they burn hotter and more steadily.",gs://fir-classification.appspot.com/Achievement_images/Firestarter
+"{'California buckeye','Californian Poppy','California black oak','California nutmeg'}",2,Mamas and the Papas,"California Dreamin'
+
+You found two or more species endemic to California. While their common names include California, you can still see them across borders.",gs://fir-classification.appspot.com/Achievement_images/Mamas and the Papas
+"{'California black oak','Valley oak'}",2,Dinner is Served,More than half of the Yosemite Native American diet was made up of acorns from the Black and Valley oaks.,gs://fir-classification.appspot.com/Achievement_images/Dinner is Served
