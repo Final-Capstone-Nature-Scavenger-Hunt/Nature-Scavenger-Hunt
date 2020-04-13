@@ -1,7 +1,4 @@
-iNaturalist Data Source - https://github.com/visipedia/inat_comp
-Data stored in gcp bucket - https://console.cloud.google.com/storage/browser/muirsquest?project=capstone-scavengerhunt
-
-##Webscraping##  
+## Webscraping 
 
 **Download Image url-s**  
 
