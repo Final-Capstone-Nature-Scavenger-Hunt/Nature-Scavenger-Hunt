@@ -1,4 +1,5 @@
-# iNat Data 
+# iNat and Game Table Data Processing
+
 ## Preprocessing and EDA
 - `iNatDataJoin.ipynb`: Joins multiple years of iNat data by Species
 - `duplicateDataCheck.ipynb`: Hashes image data and checks for duplicate images within joined datasets
