@@ -49,7 +49,7 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ![](https://placehold.it/8/32CD32/000000?text=+)  If you face any issue please do not hesitate to contact us @ **appodyssee@gmail.com**
 
 ## Demo
-![](https://placehold.it/8/32CD32/000000?text=+)  Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) of Odyssee
+![](https://placehold.it/8/32CD32/000000?text=+)  Here is a quick [demo](https://youtu.be/QI2l8aPq1x4) of Odyssee
 
 ## Data
 
