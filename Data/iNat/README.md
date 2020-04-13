@@ -1,4 +1,4 @@
-# iNat and Game Table Data Processing
+# iNat and Game Table Processing
 
 ## Preprocessing and EDA
 - `iNatDataJoin.ipynb`: Joins multiple years of iNat data by Species
