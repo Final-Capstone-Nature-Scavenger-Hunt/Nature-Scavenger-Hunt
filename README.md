@@ -1,70 +1,57 @@
 
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
 
-```diff
-+ Gamifying exploration of the natural world; an app-based experience for nature scavenger hunt.
-```
+#### An app-based scavenger hunt in Yosemite promoting connectedness with nature
+
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/SplashScreen.png" alt="AppScreen" width="160px" height="350px">
 
-## Proposal
+## About
 
-Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening to the chirp of the birds are the perfect way of your relaxation? Do you like exploring outdoors, but sometimes little hesitant to travel to a new place on your own?
-```diff
-+ Then Odyssey is for you.
-+ It’s an app-based experience for nature scavenger hunt, where you can identify local species all while off the grid.
-+ The app comes with your choice of difficulty level and option to play alone or in group.
-```  
-![](https://placehold.it/8/32CD32/000000?text=+)     The initial phase is being launched for **Yosemite National Park**.
+Odyssee is focused on a lack of engagement with the natural world affecting over 60% of Americans and urban populations around the globe. Using over 500,000 photos from over 8,000 species, our team fine tuned a nature specific neural net model, applied computer vision and edge technology to create a fascinating game and scavenger hunt experience through National Parks. 
 
+Our initial release is **Yosemite National Park**. 
 
-## Target Users
+## Features
+- An immersive experience with dynamic trail maps and loc-based augmentation 
+- Runs offline, so you can keep playing deep into the wild
+- Curated list of hunt items based on historical importance and ancient uses
+- Collectable ‘cards’ for discovered items  
+- User score system based on difficulty and rarity of found items  
+- Ability to join a ‘herd’, collaborate and compete with friends  
+- Easter-egg achievements  
 
-While this app should be suitable for nearly anyone visiting a park with a smartphone, here are few specific target users:  
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/targetUsers.png" alt="OdysseeUsers" width="850px" height="220px">  
-
-![](https://placehold.it/8/32CD32/000000?text=+)  Friends' Reunion  
-![](https://placehold.it/8/32CD32/000000?text=+)  Educational Excursion  
-![](https://placehold.it/8/32CD32/000000?text=+)  Families Reconnecting  
-![](https://placehold.it/8/32CD32/000000?text=+)  First time visitors Needing Instruction  
-![](https://placehold.it/8/32CD32/000000?text=+)  Gamers Needing a nudge  
-
-
-## Features Odysse Offers  
-![](https://placehold.it/8/32CD32/000000?text=+)  An immersive experience with dynamic trail maps and loc-based augmentation  
-![](https://placehold.it/8/32CD32/000000?text=+)  Curated list of hunt items [based on historical importance, medical or ancient uses]  
-![](https://placehold.it/8/32CD32/000000?text=+)  Collectable ‘cards’ for discovered items  
-![](https://placehold.it/8/32CD32/000000?text=+)  User score system based on difficulty and rarity of found items  
-![](https://placehold.it/8/32CD32/000000?text=+)  Ability to join a ‘herd’, collaborate and compete with friends  
-![](https://placehold.it/8/32CD32/000000?text=+)  Easter-egg achievements  
-
-## How to Use  
-![](https://placehold.it/8/32CD32/000000?text=+)  Download the APK file from [here](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) to your android phone.  
-![](https://placehold.it/8/32CD32/000000?text=+)  Install and launch the app.  
-![](https://placehold.it/8/f03c15/000000?text=+)  If you face any issue please do not hesitate to contact us @ **appodyssee@gmail.com**
+## How to Play
+-  Download the APK file from [here](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) to your android phone.  
+- Install and launch the app.  
 
 ## Demo
-![](https://placehold.it/8/32CD32/000000?text=+)  Here is a quick [demo](https://youtu.be/QI2l8aPq1x4) of Odyssee
+- Here is a quick [demo](https://youtu.be/QI2l8aPq1x4) of Odyssee
 
-## Data
-
-![](https://placehold.it/8/32CD32/000000?text=+) Data taken from the more recent iNaturalist sets [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
-![](https://placehold.it/8/32CD32/000000?text=+) Webscraping for additional image data  
+## Training Data
+- Data taken from the iNaturalist vision competition datasets in [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
+- Webscraping for additional image data  
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="700px" height="350px">  
-![](https://placehold.it/8/f03c15/000000?text=+) For more information about data extraction, check the [Data](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data) folder. It has all the details on [iNaturalist Dataset](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data/iNat) and [Webscraping](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data/webscrape)
+- For more information about our Data Engineering methods, check the [Data](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data) sub folders for the [iNaturalist Dataset](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data/iNat) and [Webscraping](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data/webscrape).
 
-## Implementation Approach
-![](https://placehold.it/8/32CD32/000000?text=+) Built on highly efficient publicly available vision model- TFHub Inception v3  
-![](https://placehold.it/8/32CD32/000000?text=+) 16-bit weight quantization is used to reduce the initial model size (to 45 mb) and inference time. It matches full model by 99.9%  
-![](https://placehold.it/8/32CD32/000000?text=+) Data Augmentation used to take care of the cropped/ zoom/ rotated images.  
-![](https://placehold.it/8/32CD32/000000?text=+) Class imbalance is handled through balanced batching and label smoothing.  
-![](https://placehold.it/8/f03c15/000000?text=+) **Entire code is available** [here](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
+## Implementation
+
+- Built on highly efficient publicly available vision model- TFHub Inception v3  
+- 16-bit weight quantization is used to reduce the initial model size (to 45 mb) and inference time. It matches full model by 99.9%  
+- Data Augmentation used to take care of the cropped/ zoom/ rotated images.  
+- Class imbalance is handled through balanced batching and label smoothing.  
+- **App codebase:** [here](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
 
 ## Future Roadmap  
-![](https://placehold.it/8/32CD32/000000?text=+) Field Testing  
-![](https://placehold.it/8/32CD32/000000?text=+) Add more parks  
-![](https://placehold.it/8/32CD32/000000?text=+) Expansion of hunts (e.g. wildflower expansion released in spring)  
-![](https://placehold.it/8/32CD32/000000?text=+) Geolocating hot-spots for species [“keep your eyes peeled, there are a lot of black-tailed deer in this area”]  
-![](https://placehold.it/8/32CD32/000000?text=+) Gray out items from list that are out of season  
-![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type. [e.g. A pinecone may appear in any orientation but a deer or tree won’t appear upside down]  
 
-![](https://placehold.it/8/f03c15/000000?text=+) **To know more about this project, check this** [presentation](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p)
+- Field testing  
+- Add more parks  
+- Expansion of hunts (e.g. wildflower expansion released in spring)  
+- Geolocating hot-spots for species (“keep your eyes peeled, there are a lot of black-tailed deer in this area”)
+- Gray out items from list that are out of season  
+- Selective data augmentation by image type (A pinecone may appear in any orientation but a deer or tree won’t appear upside down)
+
+## Additional Info
+For more details, check out our [slide deck](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p)
+
+## Contact Us
+Feedback is always welcome: **appodyssee@gmail.com**
