@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
 
-#### An app-based scavenger hunt in Yosemite promoting connectedness with nature
+### An app-based scavenger hunt in Yosemite promoting connectedness with nature
 
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/SplashScreen.png" alt="AppScreen" width="160px" height="350px">
 
