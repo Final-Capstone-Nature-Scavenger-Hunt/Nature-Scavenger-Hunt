@@ -36,8 +36,8 @@ Our initial release is for **Yosemite National Park**.
 
 ## Implementation
 
-- Built on highly efficient publicly available vision model- TFHub Inception v3  
-- 16-bit weight quantization is used to reduce the initial model size (to 45 mb) and inference time. It matches full model by 99.9%  
+- Built on highly efficient publicly available vision model - Inception v3  
+- 16-bit weight quantization is used to reduce the initial model size (~45MB) and inference time. It matches full model by 99.9%  
 - Data augmentation improves model performance wrt variation in zoom and rotation
 - Class imbalance is handled through balanced batching and label smoothing  
 - [App codebase](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
