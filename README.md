@@ -55,7 +55,7 @@ Our initial release is for **Yosemite National Park**.
 For more details, check out our [slide deck](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p)
 
 ## The Team
-Tucker Anderson, Gordon Jack, Debalina Maiti, Brian Musisi
+Tucker Anderson, Gordon Jack, Debalina Maiti, Brian Musisi - UC Berkeley MIDS, Spring 2020
 
 ## Contact Us
 Feedback is always welcome: **appodyssee@gmail.com**
