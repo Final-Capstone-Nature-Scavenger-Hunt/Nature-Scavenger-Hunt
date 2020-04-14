@@ -42,7 +42,7 @@ Our initial release is for **Yosemite National Park**.
 - Class imbalance is handled through balanced batching and label smoothing.  
 - [App codebase](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
 
-## Future Roadmap  
+## Coming Soon
 
 - Field testing  
 - Add more parks  
