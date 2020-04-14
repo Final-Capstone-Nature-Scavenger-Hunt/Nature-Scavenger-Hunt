@@ -31,6 +31,7 @@ Our initial release is **Yosemite National Park**.
 - Data taken from the iNaturalist vision competition datasets in [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
 - Webscraping for additional image data  
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="700px" height="350px">  
+
 - For more information about our Data Engineering methods, check the [Data](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data) sub folders for the [iNaturalist Dataset](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data/iNat) and [Webscraping](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/tree/master/Data/webscrape).
 
 ## Implementation
@@ -39,7 +40,7 @@ Our initial release is **Yosemite National Park**.
 - 16-bit weight quantization is used to reduce the initial model size (to 45 mb) and inference time. It matches full model by 99.9%  
 - Data Augmentation used to take care of the cropped/ zoom/ rotated images.  
 - Class imbalance is handled through balanced batching and label smoothing.  
-- **App codebase:** [here](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
+- [App codebase](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
 
 ## Future Roadmap  
 
