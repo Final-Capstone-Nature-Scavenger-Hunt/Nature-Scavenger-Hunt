@@ -9,7 +9,7 @@
 
 Odyssee is focused on a lack of engagement with the natural world affecting over 60% of Americans and urban populations around the globe. Using over 500,000 photos from over 8,000 species, our team fine tuned a nature specific neural net model, applied computer vision and edge technology to create a fascinating game and scavenger hunt experience through National Parks. 
 
-Our initial release is **Yosemite National Park**. 
+Our initial release is for **Yosemite National Park**. 
 
 ## Features
 - An immersive experience with dynamic trail maps and loc-based augmentation 
