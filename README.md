@@ -52,7 +52,7 @@ Our initial release is for **Yosemite National Park**.
 - Selective data augmentation by image type (A pinecone may appear in any orientation but a deer or tree won’t appear upside down)
 
 ## Additional Info
-For more details, check out our [slide deck](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p)
+For more details, check out our [slide deck](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p), [website](https://odyssee-nature.github.io/#)
 
 ## The Team
 Tucker Anderson, Gordon Jack, Debalina Maiti, Brian Musisi - UC Berkeley MIDS, Spring 2020
