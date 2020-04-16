@@ -21,7 +21,7 @@ Our initial release is for **Yosemite National Park**.
 - Easter-egg achievements  
 
 ## How to Play
--  Download the APK file from [here](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) to your android phone.  
+-  Download the APK file from [here](https://odyssee-app.s3.us-east-2.amazonaws.com/latest.apk) to your android phone.  
 - Install and launch the app.  
 
 ## Demo
