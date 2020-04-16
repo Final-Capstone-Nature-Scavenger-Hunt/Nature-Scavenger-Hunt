@@ -25,7 +25,7 @@ Our initial release is for **Yosemite National Park**.
 - Install and launch the app.  
 
 ## Demo
-- Here is a quick [demo](https://youtu.be/QI2l8aPq1x4) of Odyssee
+- Here is a quick [demo](https://vimeo.com/408200308) of Odyssee
 
 ## Training Data
 - Data taken from the iNaturalist vision competition datasets in [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
